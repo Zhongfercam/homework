@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table {
+    border: 4px solid black;
+    margin: auto;
+    height: 400px;
+    width: 800px;
+}
+.color1 {
+    background-color: #6b04fd;
+}
+.color2 {
+    background-color: #01941b;
+}
+.color3 {
+    background-color: #6d8704;
+}
+.color4 {
+    background-color: #d30303;
+}
+.color5 {
+    background-color: #d30387;
+}
+.color6 {
+    background-color: #d003d3;
+}
